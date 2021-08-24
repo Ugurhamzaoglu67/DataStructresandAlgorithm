@@ -1,6 +1,26 @@
 package com.ugurhmz.selectionsort;
 
 
+/*
+ 
+ 5- Selection Sort ( Seçerek Sýralama)
+	•	Sayýlardan oluþan, sýrasýz dizi verildiðinde
+	•	Selection sort -> Listedeki en küçüðü bulur.
+	•	Listenin üstünden bir kere geçiyor ve en küçüðü buluyor. En küçük sayýyý baþtaki sayýyla yer deðiþtiriyor. 
+		Sonra en küçük sayýyý 1.sýraya aldýktan sonra 1’den sonrakinde en küçük sayýlara bakýyor. 
+		ilk 2 sayý bulduktan sonra sabitlenip, diðerlerine bakýyor.
+	•	Karmaþýklýk ise : n*(n+1)/2   -> O(n^2) dir
+		Best: ?(n^2)
+		Average: ?(n^2)
+		Worst: O(n^2)
+	•	Space Complexity O(1)
+
+
+ 
+ */
+
+
+
 
 
 public class Main {

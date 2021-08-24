@@ -2,6 +2,21 @@ package com.ugurhmz.binarysearch;
 
 
 
+/*
+  4- Binary Search
+•	Aranan liste sýralý liste ise, Binary ( ikili) search  daha iyi sonuç verir.
+•	Ortaya bakýyor, sonra kalanlarýn yarýsýna, kalanlarýn yarýsýna
+•	Her adýmda, ihtimal kümesini yarýya indiriyorum.
+•	Dizinin baþýný ve sonunu tutuyoruz. Aranan sayý, ortanýn saðýnda ise   oraya getiriyoruz. aranan sayý solda ise, tutulan sondaki sayýyý, ortanýn 1 eksiðine getiriyoruz.
+
+*/
+
+
+
+
+
+
+
 
 public class Main {
 	

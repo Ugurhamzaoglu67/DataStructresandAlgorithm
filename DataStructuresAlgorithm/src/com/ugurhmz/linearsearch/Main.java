@@ -2,6 +2,22 @@ package com.ugurhmz.linearsearch;
 
 import java.util.Scanner;
 
+
+/*
+  3- Linear Search ( Doðrusal Arama)
+	•Bütün Elemanlara teker teker bakar
+
+*/
+
+
+
+
+
+
+
+
+
+
 public class Main {
 
 	public static void main(String[] args) {

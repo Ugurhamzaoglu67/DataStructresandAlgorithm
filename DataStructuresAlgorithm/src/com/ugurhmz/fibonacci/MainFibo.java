@@ -2,6 +2,20 @@ package com.ugurhmz.fibonacci;
 
 import java.util.Scanner;
 
+/*
+ * 2- Fibonacci 
+	* Genelde 0,1 ile baþlatýlýr bu seri. Bazende 1,1 ile baþlatýlýr.
+	* Her bir elemaný = Kendinden önceki 2 elemanýn toplamýna eþit olan seridir.
+	* Ardýþýk iki elemaný arasýndaki oran -> Altýn orandýr.
+	* Verilen indeksteki fibonacci sayýsý þeklinde bulunur.
+	recursiveFibonacci -> Order 2^n algoritmiktir. ve çok yavaþ bir algoritmadýr.
+	
+ */
+
+
+
+
+
 public class MainFibo {
 
 	public static void main(String[] args) {
